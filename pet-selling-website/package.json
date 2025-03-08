@@ -1,0 +1,25 @@
+{
+  "name": "pet-selling-website",
+  "version": "1.0.0",
+  "description": "A website for selling cats and dogs.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "tsc"
+  },
+  "keywords": [
+    "pets",
+    "cats",
+    "dogs",
+    "selling"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "live-server": "^1.2.1"
+  }
+}
